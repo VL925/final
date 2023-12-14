@@ -1,0 +1,82 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+	font-family: Oswald;
+    font-size: 100%;
+    line-height: 125%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height : 100%;
+    min-width : 100%;
+}
+
+
+#page-top {
+	font-family: Racing Sans One;
+}
+
+#f1 {
+	font-family: Oswald;
+	background-color: #212529;
+	color: #f8f9fa;
+}
+
+#nascar {
+	font-family: Oswald;
+	background-color: #f8f9fa;
+	color: #212529;
+}
+
+#motogp {
+	font-family: Oswald;
+	background-color: #212529;
+	color: #f8f9fa;
+}
+
+#indycar {
+	font-family: Oswald;
+	background-color: #f8f9fa;
+	color: #212529;
+}
+
+#wec {
+	font-family: Oswald;
+	background-color: #212529;
+	color: #f8f9fa;
+}
+
+#wrc {
+	font-family: Oswald;
+	background-color: #f8f9fa;
+	color: #212529;
+}
+
+.ferrari,.cars,.tt,.turbo,.indy,.day,.monaco,.we,.saf {
+	color: red
+}
+
+.ferrari:hover,.cars:hover,.tt:hover,.turbo:hover,.indy:hover,.day:hover,.monaco:hover,.we:hover,.saf:hover {
+	color: yellow;
+}
+
+
+
+h1, h2 {
+	font-family: Racing Sans One;
+}
+
+.carousel {
+	padding: 75px;
+}
+
+
+#cn {
+	background-color: #212529;
+}
+
+#ic {
+	background-color: #212529;
+}
+
+#r {
+	background-color: #212529;
+}
